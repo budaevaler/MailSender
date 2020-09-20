@@ -1,0 +1,120 @@
+C:\Users\valer\source\repos\MailSender\TabSwitcher\bin\Debug\TabSwitcher.dll
+C:\Users\valer\source\repos\MailSender\TabSwitcher\bin\Debug\TabSwitcher.pdb
+C:\Users\valer\source\repos\MailSender\TabSwitcher\obj\Debug\TabSwitcher.csprojAssemblyReference.cache
+C:\Users\valer\source\repos\MailSender\TabSwitcher\obj\Debug\UserControl1.g.cs
+C:\Users\valer\source\repos\MailSender\TabSwitcher\obj\Debug\TabSwitcher_MarkupCompile.cache
+C:\Users\valer\source\repos\MailSender\TabSwitcher\obj\Debug\TabSwitcher_MarkupCompile.lref
+C:\Users\valer\source\repos\MailSender\TabSwitcher\obj\Debug\UserControl1.baml
+C:\Users\valer\source\repos\MailSender\TabSwitcher\obj\Debug\TabSwitcher.g.resources
+C:\Users\valer\source\repos\MailSender\TabSwitcher\obj\Debug\TabSwitcher.Properties.Resources.resources
+C:\Users\valer\source\repos\MailSender\TabSwitcher\obj\Debug\TabSwitcher.csproj.GenerateResource.cache
+C:\Users\valer\source\repos\MailSender\TabSwitcher\obj\Debug\TabSwitcher.csproj.CoreCompileInputs.cache
+C:\Users\valer\source\repos\MailSender\TabSwitcher\obj\Debug\TabSwitcher.dll
+C:\Users\valer\source\repos\MailSender\TabSwitcher\obj\Debug\TabSwitcher.pdb
+C:\Users\valer\source\repos\MailSender\TabSwitcher\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\valer\source\repos\MailSender\TabSwitcher\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\valer\source\repos\MailSender\TabSwitcher\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\valer\source\repos\MailSender\TabSwitcher\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\valer\source\repos\MailSender\TabSwitcher\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\valer\source\repos\MailSender\TabSwitcher\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\valer\source\repos\MailSender\TabSwitcher\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\valer\source\repos\MailSender\TabSwitcher\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\valer\source\repos\MailSender\TabSwitcher\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\valer\source\repos\MailSender\TabSwitcher\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\valer\source\repos\MailSender\TabSwitcher\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\valer\source\repos\MailSender\TabSwitcher\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\valer\source\repos\MailSender\TabSwitcher\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\valer\source\repos\MailSender\TabSwitcher\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\valer\source\repos\MailSender\TabSwitcher\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\valer\source\repos\MailSender\TabSwitcher\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\valer\source\repos\MailSender\TabSwitcher\obj\Debug\TabSwitcher.csproj.CopyComplete
+C:\Users\valer\Desktop\Course_c#\C#\CS_level3\CS3_HW1\TabSwitcher\bin\Debug\TabSwitcher.dll
+C:\Users\valer\Desktop\Course_c#\C#\CS_level3\CS3_HW1\TabSwitcher\bin\Debug\TabSwitcher.pdb
+C:\Users\valer\Desktop\Course_c#\C#\CS_level3\CS3_HW1\TabSwitcher\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\valer\Desktop\Course_c#\C#\CS_level3\CS3_HW1\TabSwitcher\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\valer\Desktop\Course_c#\C#\CS_level3\CS3_HW1\TabSwitcher\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\valer\Desktop\Course_c#\C#\CS_level3\CS3_HW1\TabSwitcher\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\valer\Desktop\Course_c#\C#\CS_level3\CS3_HW1\TabSwitcher\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\valer\Desktop\Course_c#\C#\CS_level3\CS3_HW1\TabSwitcher\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\valer\Desktop\Course_c#\C#\CS_level3\CS3_HW1\TabSwitcher\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\valer\Desktop\Course_c#\C#\CS_level3\CS3_HW1\TabSwitcher\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\valer\Desktop\Course_c#\C#\CS_level3\CS3_HW1\TabSwitcher\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\valer\Desktop\Course_c#\C#\CS_level3\CS3_HW1\TabSwitcher\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\valer\Desktop\Course_c#\C#\CS_level3\CS3_HW1\TabSwitcher\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\valer\Desktop\Course_c#\C#\CS_level3\CS3_HW1\TabSwitcher\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\valer\Desktop\Course_c#\C#\CS_level3\CS3_HW1\TabSwitcher\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\valer\Desktop\Course_c#\C#\CS_level3\CS3_HW1\TabSwitcher\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\valer\Desktop\Course_c#\C#\CS_level3\CS3_HW1\TabSwitcher\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\valer\Desktop\Course_c#\C#\CS_level3\CS3_HW1\TabSwitcher\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\valer\Desktop\Course_c#\C#\CS_level3\CS3_HW1\TabSwitcher\obj\Debug\TabSwitcher.csprojAssemblyReference.cache
+C:\Users\valer\Desktop\Course_c#\C#\CS_level3\CS3_HW1\TabSwitcher\obj\Debug\UserControl1.g.cs
+C:\Users\valer\Desktop\Course_c#\C#\CS_level3\CS3_HW1\TabSwitcher\obj\Debug\TabSwitcher_MarkupCompile.cache
+C:\Users\valer\Desktop\Course_c#\C#\CS_level3\CS3_HW1\TabSwitcher\obj\Debug\TabSwitcher_MarkupCompile.lref
+C:\Users\valer\Desktop\Course_c#\C#\CS_level3\CS3_HW1\TabSwitcher\obj\Debug\UserControl1.baml
+C:\Users\valer\Desktop\Course_c#\C#\CS_level3\CS3_HW1\TabSwitcher\obj\Debug\TabSwitcher.g.resources
+C:\Users\valer\Desktop\Course_c#\C#\CS_level3\CS3_HW1\TabSwitcher\obj\Debug\TabSwitcher.Properties.Resources.resources
+C:\Users\valer\Desktop\Course_c#\C#\CS_level3\CS3_HW1\TabSwitcher\obj\Debug\TabSwitcher.csproj.GenerateResource.cache
+C:\Users\valer\Desktop\Course_c#\C#\CS_level3\CS3_HW1\TabSwitcher\obj\Debug\TabSwitcher.csproj.CoreCompileInputs.cache
+C:\Users\valer\Desktop\Course_c#\C#\CS_level3\CS3_HW1\TabSwitcher\obj\Debug\TabSwitcher.csproj.CopyComplete
+C:\Users\valer\Desktop\Course_c#\C#\CS_level3\CS3_HW1\TabSwitcher\obj\Debug\TabSwitcher.dll
+C:\Users\valer\Desktop\Course_c#\C#\CS_level3\CS3_HW1\TabSwitcher\obj\Debug\TabSwitcher.pdb
+C:\Users\valer\Desktop\На работу\TabSwitcher\bin\Debug\TabSwitcher.dll
+C:\Users\valer\Desktop\На работу\TabSwitcher\bin\Debug\TabSwitcher.pdb
+C:\Users\valer\Desktop\На работу\TabSwitcher\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\valer\Desktop\На работу\TabSwitcher\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\valer\Desktop\На работу\TabSwitcher\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\valer\Desktop\На работу\TabSwitcher\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\valer\Desktop\На работу\TabSwitcher\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\valer\Desktop\На работу\TabSwitcher\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\valer\Desktop\На работу\TabSwitcher\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\valer\Desktop\На работу\TabSwitcher\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\valer\Desktop\На работу\TabSwitcher\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\valer\Desktop\На работу\TabSwitcher\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\valer\Desktop\На работу\TabSwitcher\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\valer\Desktop\На работу\TabSwitcher\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\valer\Desktop\На работу\TabSwitcher\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\valer\Desktop\На работу\TabSwitcher\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\valer\Desktop\На работу\TabSwitcher\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\valer\Desktop\На работу\TabSwitcher\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\valer\Desktop\На работу\TabSwitcher\obj\Debug\TabSwitcher.csprojAssemblyReference.cache
+C:\Users\valer\Desktop\На работу\TabSwitcher\obj\Debug\UserControl1.g.cs
+C:\Users\valer\Desktop\На работу\TabSwitcher\obj\Debug\TabSwitcher_MarkupCompile.cache
+C:\Users\valer\Desktop\На работу\TabSwitcher\obj\Debug\TabSwitcher_MarkupCompile.lref
+C:\Users\valer\Desktop\На работу\TabSwitcher\obj\Debug\UserControl1.baml
+C:\Users\valer\Desktop\На работу\TabSwitcher\obj\Debug\TabSwitcher.g.resources
+C:\Users\valer\Desktop\На работу\TabSwitcher\obj\Debug\TabSwitcher.Properties.Resources.resources
+C:\Users\valer\Desktop\На работу\TabSwitcher\obj\Debug\TabSwitcher.csproj.GenerateResource.cache
+C:\Users\valer\Desktop\На работу\TabSwitcher\obj\Debug\TabSwitcher.csproj.CoreCompileInputs.cache
+C:\Users\valer\Desktop\На работу\TabSwitcher\obj\Debug\TabSwitcher.csproj.CopyComplete
+C:\Users\valer\Desktop\На работу\TabSwitcher\obj\Debug\TabSwitcher.dll
+C:\Users\valer\Desktop\На работу\TabSwitcher\obj\Debug\TabSwitcher.pdb
+C:\Users\valer\Desktop\На работу\MailSender\TabSwitcher\bin\Debug\TabSwitcher.dll
+C:\Users\valer\Desktop\На работу\MailSender\TabSwitcher\bin\Debug\TabSwitcher.pdb
+C:\Users\valer\Desktop\На работу\MailSender\TabSwitcher\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\valer\Desktop\На работу\MailSender\TabSwitcher\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\valer\Desktop\На работу\MailSender\TabSwitcher\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\valer\Desktop\На работу\MailSender\TabSwitcher\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\valer\Desktop\На работу\MailSender\TabSwitcher\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\valer\Desktop\На работу\MailSender\TabSwitcher\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\valer\Desktop\На работу\MailSender\TabSwitcher\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\valer\Desktop\На работу\MailSender\TabSwitcher\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\valer\Desktop\На работу\MailSender\TabSwitcher\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\valer\Desktop\На работу\MailSender\TabSwitcher\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\valer\Desktop\На работу\MailSender\TabSwitcher\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\valer\Desktop\На работу\MailSender\TabSwitcher\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\valer\Desktop\На работу\MailSender\TabSwitcher\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\valer\Desktop\На работу\MailSender\TabSwitcher\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\valer\Desktop\На работу\MailSender\TabSwitcher\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\valer\Desktop\На работу\MailSender\TabSwitcher\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\valer\Desktop\На работу\MailSender\TabSwitcher\obj\Debug\TabSwitcher.csprojAssemblyReference.cache
+C:\Users\valer\Desktop\На работу\MailSender\TabSwitcher\obj\Debug\UserControl1.g.cs
+C:\Users\valer\Desktop\На работу\MailSender\TabSwitcher\obj\Debug\TabSwitcher_MarkupCompile.cache
+C:\Users\valer\Desktop\На работу\MailSender\TabSwitcher\obj\Debug\TabSwitcher_MarkupCompile.lref
+C:\Users\valer\Desktop\На работу\MailSender\TabSwitcher\obj\Debug\UserControl1.baml
+C:\Users\valer\Desktop\На работу\MailSender\TabSwitcher\obj\Debug\TabSwitcher.g.resources
+C:\Users\valer\Desktop\На работу\MailSender\TabSwitcher\obj\Debug\TabSwitcher.Properties.Resources.resources
+C:\Users\valer\Desktop\На работу\MailSender\TabSwitcher\obj\Debug\TabSwitcher.csproj.GenerateResource.cache
+C:\Users\valer\Desktop\На работу\MailSender\TabSwitcher\obj\Debug\TabSwitcher.csproj.CoreCompileInputs.cache
+C:\Users\valer\Desktop\На работу\MailSender\TabSwitcher\obj\Debug\TabSwitcher.csproj.CopyComplete
+C:\Users\valer\Desktop\На работу\MailSender\TabSwitcher\obj\Debug\TabSwitcher.dll
+C:\Users\valer\Desktop\На работу\MailSender\TabSwitcher\obj\Debug\TabSwitcher.pdb

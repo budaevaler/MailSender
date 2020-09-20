@@ -1,0 +1,200 @@
+C:\Users\valer\source\repos\MailSender\MailSender\bin\Debug\MailSender.exe.config
+C:\Users\valer\source\repos\MailSender\MailSender\bin\Debug\MailSender.exe
+C:\Users\valer\source\repos\MailSender\MailSender\bin\Debug\MailSender.pdb
+C:\Users\valer\source\repos\MailSender\MailSender\obj\Debug\MailSender.csprojAssemblyReference.cache
+C:\Users\valer\source\repos\MailSender\MailSender\obj\Debug\WpfMailSender.g.cs
+C:\Users\valer\source\repos\MailSender\MailSender\obj\Debug\App.g.cs
+C:\Users\valer\source\repos\MailSender\MailSender\obj\Debug\MailSender_MarkupCompile.cache
+C:\Users\valer\source\repos\MailSender\MailSender\obj\Debug\MailSender_MarkupCompile.lref
+C:\Users\valer\source\repos\MailSender\MailSender\obj\Debug\WpfMailSender.baml
+C:\Users\valer\source\repos\MailSender\MailSender\obj\Debug\MailSender.g.resources
+C:\Users\valer\source\repos\MailSender\MailSender\obj\Debug\MailSender.Properties.Resources.resources
+C:\Users\valer\source\repos\MailSender\MailSender\obj\Debug\MailSender.csproj.GenerateResource.cache
+C:\Users\valer\source\repos\MailSender\MailSender\obj\Debug\MailSender.csproj.CoreCompileInputs.cache
+C:\Users\valer\source\repos\MailSender\MailSender\obj\Debug\MailSender.exe
+C:\Users\valer\source\repos\MailSender\MailSender\obj\Debug\MailSender.pdb
+C:\Users\valer\source\repos\MailSender\MailSender\obj\Debug\Theme.baml
+C:\Users\valer\source\repos\MailSender\MailSender\obj\Debug\App.baml
+C:\Users\valer\source\repos\MailSender\MailSender\bin\Debug\EncrypterDll.dll
+C:\Users\valer\source\repos\MailSender\MailSender\bin\Debug\EncrypterDll.pdb
+C:\Users\valer\source\repos\MailSender\MailSender\obj\Debug\MailSender.csproj.CopyComplete
+C:\Users\valer\source\repos\MailSender\MailSender\bin\Debug\TabSwitcher.dll
+C:\Users\valer\source\repos\MailSender\MailSender\bin\Debug\TabSwitcher.pdb
+C:\Users\valer\source\repos\MailSender\MailSender\bin\Debug\EmailSendServiceClassDLL.dll
+C:\Users\valer\source\repos\MailSender\MailSender\bin\Debug\EmailSendServiceClassDLL.pdb
+C:\Users\valer\source\repos\MailSender\MailSender\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\valer\source\repos\MailSender\MailSender\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\valer\source\repos\MailSender\MailSender\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\valer\source\repos\MailSender\MailSender\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\valer\source\repos\MailSender\MailSender\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\valer\source\repos\MailSender\MailSender\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\valer\source\repos\MailSender\MailSender\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\valer\source\repos\MailSender\MailSender\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\valer\source\repos\MailSender\MailSender\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\valer\source\repos\MailSender\MailSender\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\valer\source\repos\MailSender\MailSender\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\valer\source\repos\MailSender\MailSender\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\valer\source\repos\MailSender\MailSender\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\valer\source\repos\MailSender\MailSender\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\valer\source\repos\MailSender\MailSender\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\valer\source\repos\MailSender\MailSender\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\valer\Desktop\Course_c#\C#\CS_level3\CS3_HW1\MailSender\bin\Debug\MailSender.exe.config
+C:\Users\valer\Desktop\Course_c#\C#\CS_level3\CS3_HW1\MailSender\bin\Debug\MailSender.exe
+C:\Users\valer\Desktop\Course_c#\C#\CS_level3\CS3_HW1\MailSender\bin\Debug\MailSender.pdb
+C:\Users\valer\Desktop\Course_c#\C#\CS_level3\CS3_HW1\MailSender\bin\Debug\TabSwitcher.dll
+C:\Users\valer\Desktop\Course_c#\C#\CS_level3\CS3_HW1\MailSender\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\valer\Desktop\Course_c#\C#\CS_level3\CS3_HW1\MailSender\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\valer\Desktop\Course_c#\C#\CS_level3\CS3_HW1\MailSender\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\valer\Desktop\Course_c#\C#\CS_level3\CS3_HW1\MailSender\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\valer\Desktop\Course_c#\C#\CS_level3\CS3_HW1\MailSender\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\valer\Desktop\Course_c#\C#\CS_level3\CS3_HW1\MailSender\bin\Debug\TabSwitcher.pdb
+C:\Users\valer\Desktop\Course_c#\C#\CS_level3\CS3_HW1\MailSender\bin\Debug\EmailSendServiceClassDLL.pdb
+C:\Users\valer\Desktop\Course_c#\C#\CS_level3\CS3_HW1\MailSender\bin\Debug\EncrypterDll.pdb
+C:\Users\valer\Desktop\Course_c#\C#\CS_level3\CS3_HW1\MailSender\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\valer\Desktop\Course_c#\C#\CS_level3\CS3_HW1\MailSender\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\valer\Desktop\Course_c#\C#\CS_level3\CS3_HW1\MailSender\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\valer\Desktop\Course_c#\C#\CS_level3\CS3_HW1\MailSender\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\valer\Desktop\Course_c#\C#\CS_level3\CS3_HW1\MailSender\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\valer\Desktop\Course_c#\C#\CS_level3\CS3_HW1\MailSender\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\valer\Desktop\Course_c#\C#\CS_level3\CS3_HW1\MailSender\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\valer\Desktop\Course_c#\C#\CS_level3\CS3_HW1\MailSender\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\valer\Desktop\Course_c#\C#\CS_level3\CS3_HW1\MailSender\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\valer\Desktop\Course_c#\C#\CS_level3\CS3_HW1\MailSender\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\valer\Desktop\Course_c#\C#\CS_level3\CS3_HW1\MailSender\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\valer\Desktop\Course_c#\C#\CS_level3\CS3_HW1\MailSender\obj\Debug\MailSender.csprojAssemblyReference.cache
+C:\Users\valer\Desktop\Course_c#\C#\CS_level3\CS3_HW1\MailSender\obj\Debug\Theme.baml
+C:\Users\valer\Desktop\Course_c#\C#\CS_level3\CS3_HW1\MailSender\obj\Debug\View\WpfMailSender.g.cs
+C:\Users\valer\Desktop\Course_c#\C#\CS_level3\CS3_HW1\MailSender\obj\Debug\App.g.cs
+C:\Users\valer\Desktop\Course_c#\C#\CS_level3\CS3_HW1\MailSender\obj\Debug\MailSender_MarkupCompile.cache
+C:\Users\valer\Desktop\Course_c#\C#\CS_level3\CS3_HW1\MailSender\obj\Debug\MailSender_MarkupCompile.lref
+C:\Users\valer\Desktop\Course_c#\C#\CS_level3\CS3_HW1\MailSender\obj\Debug\App.baml
+C:\Users\valer\Desktop\Course_c#\C#\CS_level3\CS3_HW1\MailSender\obj\Debug\View\WpfMailSender.baml
+C:\Users\valer\Desktop\Course_c#\C#\CS_level3\CS3_HW1\MailSender\obj\Debug\MailSender.g.resources
+C:\Users\valer\Desktop\Course_c#\C#\CS_level3\CS3_HW1\MailSender\obj\Debug\MailSender.Properties.Resources.resources
+C:\Users\valer\Desktop\Course_c#\C#\CS_level3\CS3_HW1\MailSender\obj\Debug\MailSender.csproj.GenerateResource.cache
+C:\Users\valer\Desktop\Course_c#\C#\CS_level3\CS3_HW1\MailSender\obj\Debug\MailSender.csproj.CoreCompileInputs.cache
+C:\Users\valer\Desktop\Course_c#\C#\CS_level3\CS3_HW1\MailSender\obj\Debug\MailSender.csproj.CopyComplete
+C:\Users\valer\Desktop\Course_c#\C#\CS_level3\CS3_HW1\MailSender\obj\Debug\MailSender.exe
+C:\Users\valer\Desktop\Course_c#\C#\CS_level3\CS3_HW1\MailSender\obj\Debug\MailSender.pdb
+C:\Users\valer\Desktop\На работу\MailSender\bin\Debug\MailSender.exe.config
+C:\Users\valer\Desktop\На работу\MailSender\bin\Debug\MailSender.exe
+C:\Users\valer\Desktop\На работу\MailSender\bin\Debug\MailSender.pdb
+C:\Users\valer\Desktop\На работу\MailSender\bin\Debug\TabSwitcher.dll
+C:\Users\valer\Desktop\На работу\MailSender\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\valer\Desktop\На работу\MailSender\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\valer\Desktop\На работу\MailSender\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\valer\Desktop\На работу\MailSender\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\valer\Desktop\На работу\MailSender\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\valer\Desktop\На работу\MailSender\bin\Debug\TabSwitcher.pdb
+C:\Users\valer\Desktop\На работу\MailSender\bin\Debug\EmailSendServiceClassDLL.pdb
+C:\Users\valer\Desktop\На работу\MailSender\bin\Debug\EncrypterDll.pdb
+C:\Users\valer\Desktop\На работу\MailSender\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\valer\Desktop\На работу\MailSender\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\valer\Desktop\На работу\MailSender\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\valer\Desktop\На работу\MailSender\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\valer\Desktop\На работу\MailSender\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\valer\Desktop\На работу\MailSender\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\valer\Desktop\На работу\MailSender\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\valer\Desktop\На работу\MailSender\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\valer\Desktop\На работу\MailSender\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\valer\Desktop\На работу\MailSender\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\valer\Desktop\На работу\MailSender\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\valer\Desktop\На работу\MailSender\obj\Debug\MailSender.csprojAssemblyReference.cache
+C:\Users\valer\Desktop\На работу\MailSender\obj\Debug\Theme.baml
+C:\Users\valer\Desktop\На работу\MailSender\obj\Debug\WpfMailSender.g.cs
+C:\Users\valer\Desktop\На работу\MailSender\obj\Debug\App.g.cs
+C:\Users\valer\Desktop\На работу\MailSender\obj\Debug\MailSender_MarkupCompile.cache
+C:\Users\valer\Desktop\На работу\MailSender\obj\Debug\MailSender_MarkupCompile.lref
+C:\Users\valer\Desktop\На работу\MailSender\obj\Debug\App.baml
+C:\Users\valer\Desktop\На работу\MailSender\obj\Debug\WpfMailSender.baml
+C:\Users\valer\Desktop\На работу\MailSender\obj\Debug\MailSender.g.resources
+C:\Users\valer\Desktop\На работу\MailSender\obj\Debug\MailSender.Properties.Resources.resources
+C:\Users\valer\Desktop\На работу\MailSender\obj\Debug\MailSender.csproj.GenerateResource.cache
+C:\Users\valer\Desktop\На работу\MailSender\obj\Debug\MailSender.csproj.CoreCompileInputs.cache
+C:\Users\valer\Desktop\На работу\MailSender\obj\Debug\MailSender.csproj.CopyComplete
+C:\Users\valer\Desktop\На работу\MailSender\obj\Debug\MailSender.exe
+C:\Users\valer\Desktop\На работу\MailSender\obj\Debug\MailSender.pdb
+C:\Users\valer\Desktop\На работу\MailSender\bin\Debug\CommonServiceLocator.dll
+C:\Users\valer\Desktop\На работу\MailSender\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\valer\Desktop\На работу\MailSender\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\valer\Desktop\На работу\MailSender\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\valer\Desktop\На работу\MailSender\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\valer\Desktop\На работу\MailSender\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\valer\Desktop\На работу\MailSender\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\valer\Desktop\На работу\MailSender\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\valer\Desktop\На работу\MailSender\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\valer\Desktop\На работу\MailSender\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\valer\Desktop\На работу\MailSender\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\valer\Desktop\На работу\MailSender\obj\Debug\View\EmailInfoView.baml
+C:\Users\valer\Desktop\На работу\MailSender\obj\Debug\View\EmailInfoView.g.cs
+C:\Users\valer\Desktop\На работу\MailSender\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\valer\Desktop\На работу\MailSender\obj\Debug\View\SaveEmailView.baml
+C:\Users\valer\Desktop\На работу\MailSender\obj\Debug\View\SaveEmailView.g.cs
+C:\Users\valer\Desktop\На работу\MailSender\bin\Debug\ListViewItemScheduler.dll
+C:\Users\valer\Desktop\На работу\MailSender\bin\Debug\ListViewItemScheduler.pdb
+C:\Users\valer\Desktop\На работу\MailSender\obj\Debug\MailSender_Content.g.cs
+C:\Users\valer\Desktop\На работу\MailSender\bin\Debug\EntityFramework.dll
+C:\Users\valer\Desktop\На работу\MailSender\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\valer\Desktop\На работу\MailSender\bin\Debug\EntityFramework.xml
+C:\Users\valer\Desktop\На работу\MailSender\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\valer\Desktop\На работу\MailSender\MailSender\bin\Debug\MailSender.exe.config
+C:\Users\valer\Desktop\На работу\MailSender\MailSender\bin\Debug\MailSender.exe
+C:\Users\valer\Desktop\На работу\MailSender\MailSender\bin\Debug\MailSender.pdb
+C:\Users\valer\Desktop\На работу\MailSender\MailSender\bin\Debug\CommonServiceLocator.dll
+C:\Users\valer\Desktop\На работу\MailSender\MailSender\bin\Debug\EntityFramework.dll
+C:\Users\valer\Desktop\На работу\MailSender\MailSender\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\valer\Desktop\На работу\MailSender\MailSender\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\valer\Desktop\На работу\MailSender\MailSender\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\valer\Desktop\На работу\MailSender\MailSender\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\valer\Desktop\На работу\MailSender\MailSender\bin\Debug\ListViewItemScheduler.dll
+C:\Users\valer\Desktop\На работу\MailSender\MailSender\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\valer\Desktop\На работу\MailSender\MailSender\bin\Debug\TabSwitcher.dll
+C:\Users\valer\Desktop\На работу\MailSender\MailSender\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\valer\Desktop\На работу\MailSender\MailSender\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\valer\Desktop\На работу\MailSender\MailSender\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\valer\Desktop\На работу\MailSender\MailSender\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\valer\Desktop\На работу\MailSender\MailSender\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\valer\Desktop\На работу\MailSender\MailSender\bin\Debug\ListViewItemScheduler.pdb
+C:\Users\valer\Desktop\На работу\MailSender\MailSender\bin\Debug\TabSwitcher.pdb
+C:\Users\valer\Desktop\На работу\MailSender\MailSender\bin\Debug\EmailSendServiceClassDLL.pdb
+C:\Users\valer\Desktop\На работу\MailSender\MailSender\bin\Debug\EncrypterDll.pdb
+C:\Users\valer\Desktop\На работу\MailSender\MailSender\bin\Debug\EntityFramework.xml
+C:\Users\valer\Desktop\На работу\MailSender\MailSender\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\valer\Desktop\На работу\MailSender\MailSender\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\valer\Desktop\На работу\MailSender\MailSender\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\valer\Desktop\На работу\MailSender\MailSender\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\valer\Desktop\На работу\MailSender\MailSender\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\valer\Desktop\На работу\MailSender\MailSender\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\valer\Desktop\На работу\MailSender\MailSender\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\valer\Desktop\На работу\MailSender\MailSender\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\valer\Desktop\На работу\MailSender\MailSender\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\valer\Desktop\На работу\MailSender\MailSender\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\valer\Desktop\На работу\MailSender\MailSender\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\valer\Desktop\На работу\MailSender\MailSender\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\valer\Desktop\На работу\MailSender\MailSender\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\valer\Desktop\На работу\MailSender\MailSender\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\valer\Desktop\На работу\MailSender\MailSender\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\valer\Desktop\На работу\MailSender\MailSender\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\valer\Desktop\На работу\MailSender\MailSender\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\valer\Desktop\На работу\MailSender\MailSender\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\valer\Desktop\На работу\MailSender\MailSender\obj\Debug\MailSender.csprojAssemblyReference.cache
+C:\Users\valer\Desktop\На работу\MailSender\MailSender\obj\Debug\Theme.baml
+C:\Users\valer\Desktop\На работу\MailSender\MailSender\obj\Debug\View\EmailInfoView.baml
+C:\Users\valer\Desktop\На работу\MailSender\MailSender\obj\Debug\View\EmailInfoView.g.cs
+C:\Users\valer\Desktop\На работу\MailSender\MailSender\obj\Debug\View\SaveEmailView.g.cs
+C:\Users\valer\Desktop\На работу\MailSender\MailSender\obj\Debug\WpfMailSender.g.cs
+C:\Users\valer\Desktop\На работу\MailSender\MailSender\obj\Debug\App.g.cs
+C:\Users\valer\Desktop\На работу\MailSender\MailSender\obj\Debug\MailSender_Content.g.cs
+C:\Users\valer\Desktop\На работу\MailSender\MailSender\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\valer\Desktop\На работу\MailSender\MailSender\obj\Debug\MailSender_MarkupCompile.cache
+C:\Users\valer\Desktop\На работу\MailSender\MailSender\obj\Debug\MailSender_MarkupCompile.lref
+C:\Users\valer\Desktop\На работу\MailSender\MailSender\obj\Debug\App.baml
+C:\Users\valer\Desktop\На работу\MailSender\MailSender\obj\Debug\View\SaveEmailView.baml
+C:\Users\valer\Desktop\На работу\MailSender\MailSender\obj\Debug\WpfMailSender.baml
+C:\Users\valer\Desktop\На работу\MailSender\MailSender\obj\Debug\MailSender.g.resources
+C:\Users\valer\Desktop\На работу\MailSender\MailSender\obj\Debug\MailSender.Properties.Resources.resources
+C:\Users\valer\Desktop\На работу\MailSender\MailSender\obj\Debug\MailSender.csproj.GenerateResource.cache
+C:\Users\valer\Desktop\На работу\MailSender\MailSender\obj\Debug\MailSender.csproj.CoreCompileInputs.cache
+C:\Users\valer\Desktop\На работу\MailSender\MailSender\obj\Debug\MailSender.csproj.CopyComplete
+C:\Users\valer\Desktop\На работу\MailSender\MailSender\obj\Debug\MailSender.exe
+C:\Users\valer\Desktop\На работу\MailSender\MailSender\obj\Debug\MailSender.pdb
